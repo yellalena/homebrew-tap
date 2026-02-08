@@ -1,8 +1,8 @@
 class Vkscape < Formula
   desc "CLI/TUI tool for downloading your VK archive"
   homepage "https://github.com/yellalena/vkscape"
-  url "https://github.com/yellalena/vkscape/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "b81f1518360a1007a0e87618a9fc126f3f6afe53af1a4767b46e0cff4bc49c71"
+  url "https://github.com/yellalena/vkscape/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "0dcd8e3cc368cf08f627a75ab9ded4105f0753dffc166dadbdab0cc88228ac34"
   license ""
 
   license "MIT"
